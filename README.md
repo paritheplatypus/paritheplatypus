@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Pari Patel!</h1>
-<h3 align="center">A passionate full-stack developer studying at the University of Missouri.</h3>
+<h3 align="center">An aspiring full-stack developer studying at the University of Missouri.</h3>
 
 - 🌱 I’m currently learning **machine learning, cybersecurity, software engineering, and a lot more!**
 
 - 📫 How to reach me **ppf2d@missouri.edu**
+LinkedIn: paripatel54
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
