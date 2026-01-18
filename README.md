@@ -16,7 +16,7 @@ An aspiring software engineer studying **agentic/secure AI, cloud-native develop
 
 **Security & Confidential Computing:** VMware Certifier Framework, Trusted Execution Environments (Intel SGX, AMD SEV), attestation workflows, key management, encrypted execution, secure multi-language pipelines
 
-**Data & ML (Optional):** NumPy, Pandas, TensorFlow, data preprocessing, model serving with Docker
+**Data & ML:** NumPy, Pandas, TensorFlow, data preprocessing, model serving with Docker
 
 **Developer Tools:** Git/GitHub, IntelliJ IDEA, VS Code, Android Studio, Linux/Unix CLI, Jira, Notion  
 
