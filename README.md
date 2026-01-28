@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pari Patel!
 
-An aspiring software engineer studying **agentic/secure AI, cloud-native development, DevOps engineering, distributed systems, etc.**. I build reliable systems using Java, C++, Python, Docker, Kubernetes, and Spring Boot — with a growing interest in Confidential Computing and secure workflow automation.
+An aspiring software engineer studying **secure/agentic AI, cloud-native development, DevOps engineering, distributed systems, etc.**. I build reliable systems using Java, C++, Python, Docker, Kubernetes, and Spring Boot — with a growing interest in software and fullstack development.
 
 ## 🔧 Tech I Use
 
